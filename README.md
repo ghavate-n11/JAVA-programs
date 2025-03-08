@@ -98,7 +98,7 @@ Welcome to the **Java Programs Repository!** This repository contains various Ja
 
 ### **1⃣⃣ Java SE 8 Features**
 - Lambda Expressions
-- Functional Interfaces
+- Functional Interfaces(predicate)
 - Streams API
 - Default & Static Methods in Interfaces
 - Optional Class
